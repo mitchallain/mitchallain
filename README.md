@@ -7,5 +7,3 @@
 - 🌱 I'm learning about all things modern C++, Unix tools, neovim, and modern robotics
 - 🤩 I'm passionate about CLI tools, knowledge and information management, and software engineering
 - 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/mitchell-allain/)
-
-[![mitchallain's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchallain&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
